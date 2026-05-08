@@ -84,20 +84,8 @@ python calculator.py
 
 # 🖥️ Calculator Menu
 
-```text
-=============================================
-          SMART CALCULATOR PRO
-=============================================
+![menu](https://github.com/muralib0214/smart-calculator-pro/blob/ca4e44117165eb40a6eee4f1dc7032cc65a286f2/Screenshot%202026-05-04%20213403.png)
 
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
-5. Modulus
-6. History
-7. Clear History
-8. Exit
-```
 
 # 📸 Example Output
 
@@ -135,13 +123,11 @@ Every calculation is stored with:
 
 ### Example
 
-```text
-[05/05/2026 10:15:30 PM] -> 20 / 5 = 4.00
-```
+
+![history image](https://github.com/muralib0214/smart-calculator-pro/blob/ca4e44117165eb40a6eee4f1dc7032cc65a286f2/Screenshot%202026-05-04%20223530.png)
 
 Only the latest 10 calculations are stored to maintain optimized performance.
-
----
+![history file](https://github.com/muralib0214/smart-calculator-pro/blob/ca4e44117165eb40a6eee4f1dc7032cc65a286f2/Screenshot%202026-05-04%20223546.png)
 
 # 🧠 Key Concepts Learned
 
